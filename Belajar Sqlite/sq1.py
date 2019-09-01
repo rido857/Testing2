@@ -2,7 +2,7 @@
 """
 Created on Fri Aug  9 09:53:45 2019
 
-@author: user
+@author: user Rido Dwi ismanto
 """
 
 import sqlite3
